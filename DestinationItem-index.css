@@ -1,0 +1,12 @@
+/* Write your CSS here */
+.imageContainer {
+  display: flex;
+  flex-direction: row;
+}
+.images {
+  width: 150px;
+  height: 100px;
+}
+.name {
+  flex-wrap: wrap;
+}
